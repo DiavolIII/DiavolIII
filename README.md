@@ -82,7 +82,7 @@
 ### 🔔 **Мой канал в Telegram**
 [![Подписаться](https://img.shields.io/badge/Подписаться-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Progxs)
 
-[![Подписаться, канал "Советы Разработчикам"](https://img.shields.io/badge/Подписаться-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ProgerXS)
+[![Подписаться, канал "Советы Разработчикам"](https://img.shields.io/badge/Подписаться, канал"Советы Разработчикам-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ProgerXS)
 
 
 
