@@ -94,5 +94,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiavolIII&layout=compact&theme=radical)
 
 ---
-
-**🚀 Код — это искусство, а я — вечный ученик.**
