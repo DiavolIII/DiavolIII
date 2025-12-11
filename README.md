@@ -78,10 +78,6 @@
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/xxxdanyacookie)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xxxdanyacookie)
 
-### 🔔 **Мои каналы в Telegram**
-[![Подписаться](https://img.shields.io/badge/Подписаться-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Progxs)
-
-[![Подписаться2](https://img.shields.io/badge/Подписаться-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ProgerXS)
 
 
 
