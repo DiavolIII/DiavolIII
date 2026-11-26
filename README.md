@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFC000,100:000000&height=250&section=header&text=DIAVOLIII&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-stack%20%7C%20ML%20%7C%20DevOps&descAlignY=60&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFC000,100:000000&height=250&section=header&text=Бангерт%20Данил&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-stack%20%7C%20ML%20%7C%20DevOps&descAlignY=60&descSize=22" />
 </div>
-
 
 <br/>
 
-<div align="center">
+<div align="center" style="font-size: 18px; line-height: 1.8;">
   <p><strong>Студент IT-Колледжа <img src="https://static.tildacdn.com/tild3835-3638-4035-b135-316236636165/Fat_logo.svg" width="20"> MAXITET</strong></p>
   <p><code>Разработчик</code> <code>Full-stack</code> <code>ML</code> <code>DevOps</code></p>
   <p>Увлекаюсь программированием и изучаю различные языки для масштабного понимания компьютерных наук.<br/>Мой подход — это глубокое погружение в технологии, эксперименты и постоянное обучение.</p>
@@ -13,7 +12,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="font-size: 18px; line-height: 1.8;">
   <p>[-] <strong>Цель:</strong> Стать универсальным разработчиком с пониманием low-level и high-level парадигм.</p>
   <p>[+] <strong>Изучаю:</strong> Алгоритмы, архитектуру ПО, машинное обучение и системное программирование.</p>
   <p>[>] <strong>Работа:</strong> Работаю над личной операционной системой на Android Studio + разработал полный шаблон ОС под Android.</p>
@@ -22,20 +21,45 @@
 <br/>
 
 <div align="center">
-  <h3>Достижения и сертификаты</h3>
-  <table>
-    <tr><th>Курс</th><th>Организация</th><th>Дата начала</th><th>Дата окончания</th></tr>
-    <tr><td>Python (базовый/продвинутый)</td><td>Код будущего</td><td>23.04.2024</td><td>01.06.2024</td></tr>
-    <tr><td>The Rust Programming Language</td><td>Rust Foundation</td><td>20.06.2024</td><td>02.09.2024</td></tr>
-    <tr><td>C++</td><td>C++ Курс "Разработчик С++"</td><td>06.03.2024</td><td>01.06.2024</td></tr>
-    <tr><td>ML</td><td>Онлайн-курс Machine Learning Engineer</td><td>25.04.2025</td><td>02.06.2025</td></tr>
+  <h3 style="font-size: 24px;">Достижения и сертификаты</h3>
+  <table style="font-size: 16px; border-collapse: collapse; width: 100%; max-width: 800px;">
+    <tr style="background-color: #161b22; color: #c9d1d9;">
+      <th style="padding: 12px; border: 1px solid #30363d;">Курс</th>
+      <th style="padding: 12px; border: 1px solid #30363d;">Организация</th>
+      <th style="padding: 12px; border: 1px solid #30363d;">Дата начала</th>
+      <th style="padding: 12px; border: 1px solid #30363d;">Дата окончания</th>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #30363d;">Python (базовый/продвинутый)</td>
+      <td style="padding: 12px; border: 1px solid #30363d;">Код будущего</td>
+      <td style="padding: 12px; border: 1px solid #30363d;">23.04.2024</td>
+      <td style="padding: 12px; border: 1px solid #30363d;">01.06.2024</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #30363d;">The Rust Programming Language</td>
+      <td style="padding: 12px; border: 1px solid #30363d;">Rust Foundation</td>
+      <td style="padding: 12px; border: 1px solid #30363d;">20.06.2024</td>
+      <td style="padding: 12px; border: 1px solid #30363d;">02.09.2024</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #30363d;">C++</td>
+      <td style="padding: 12px; border: 1px solid #30363d;">C++ Курс "Разработчик С++"</td>
+      <td style="padding: 12px; border: 1px solid #30363d;">06.03.2024</td>
+      <td style="padding: 12px; border: 1px solid #30363d;">01.06.2024</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #30363d;">ML</td>
+      <td style="padding: 12px; border: 1px solid #30363d;">Онлайн-курс Machine Learning Engineer</td>
+      <td style="padding: 12px; border: 1px solid #30363d;">25.04.2025</td>
+      <td style="padding: 12px; border: 1px solid #30363d;">02.06.2025</td>
+    </tr>
   </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>Codewars</h3>
+  <h3 style="font-size: 24px;">Codewars</h3>
   <a href="https://www.codewars.com/users/DiavolIII">
     <img src="https://www.codewars.com/users/DiavolIII/badges/large" />
   </a>
@@ -44,38 +68,38 @@
 <br/>
 
 <div align="center">
-  <h3>Технологии и инструменты</h3>
+  <h3 style="font-size: 24px;">Технологии и инструменты</h3>
 </div>
 
 <p align="center">
   <table align="center" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
     <tr>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="55" /></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" /></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55" /></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" /></td>
-      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" /></td>
     </tr>
   </table>
 </p>
@@ -84,21 +108,21 @@
 
 <div align="center">
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="35" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="35" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
   </p>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>Статистика активности</h3>
+  <h3 style="font-size: 24px;">Статистика активности</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=DiavolIII&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FFC000&icon_color=FFC000&text_color=ffffff&ring_color=FFC000" height="180" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiavolIII&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FFC000&text_color=ffffff" height="180" />
@@ -117,15 +141,15 @@
 <br/>
 
 <div align="center">
-  <h3>Minesweeper</h3>
-  <p>Играй прямо в README. Кликни по ссылке, создай Issue без изменений — поле обновится.</p>
+  <h3 style="font-size: 24px;">Minesweeper</h3>
+  <p style="font-size: 16px;">Играй прямо в README. Кликни по ссылке, создай Issue без изменений — поле обновится.</p>
   <img src="./minesweeper/board.svg" width="450" alt="Minesweeper Board" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>Связь со мной</h3>
+  <h3 style="font-size: 24px;">Связь со мной</h3>
   <a href="https://vk.com/xxxdanyacookie"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
   <a href="https://t.me/xxxdanyacookie"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
