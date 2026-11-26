@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FFC000&height=5&width=200&section=header" />
+</div>
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
   Привет, я Данил (DIAVOLIII)
@@ -6,25 +10,29 @@
 
 <br/>
 
-<img align="right" height="250" width="400" alt="Engine GIF" src="./assets/engine.gif"/>
-
-<div align="left">
-  <p>[-] <strong>Цель:</strong> Стать универсальным разработчиком с пониманием low-level и high-level парадигм.</p>
-  <p>[+] <strong>Изучаю:</strong> Алгоритмы, архитектуру ПО, машинное обучение и системное программирование.</p>
-  <p>[>] <strong>Работа:</strong> Работаю над личной операционной системой на Android Studio + разработал полный шаблон ОС под Android.</p>
-  <p>[#] <strong>Колледж:</strong> Студент IT-Колледжа MAXITET.</p>
-</div>
-
-<br clear="both"/>
-
 <p align="center">
-  <code>Full-stack Developer</code> <code>ML Engineer</code> <code>DevOps Engineer</code>
+  <img src="./assets/engine.gif" width="600" alt="Engine GIF" />
 </p>
+
+<br/>
+
+<div align="center" style="font-size: 18px; line-height: 1.8;">
+  <p><strong>[-] Цель:</strong> Стать универсальным разработчиком с пониманием low-level и high-level парадигм.</p>
+  <p><strong>[+] Изучаю:</strong> Алгоритмы, архитектуру ПО, машинное обучение и системное программирование.</p>
+  <p><strong>[>] Работа:</strong> Работаю над личной операционной системой на Android Studio + разработал полный шаблон ОС под Android.</p>
+  <p><strong>[#] Колледж:</strong> Студент IT-Колледжа MAXITET.</p>
+</div>
 
 <br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFC000,100:000000&height=200&section=header&text=DIAVOLIII&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FFC000&height=5&width=600" />
 </div>
 
 <br/>
@@ -40,7 +48,7 @@
 
 <br/>
 
-<h3 align="center">Технологии и инструменты</h3>
+<h3 align="center" style="font-size: 24px;">Технологии и инструменты</h3>
 
 <p align="center">
   <table align="center" style="border-collapse: collapse; width: 100%; max-width: 900px; background-color: #0d1117; border: 1px solid #30363d;">
@@ -88,48 +96,55 @@
 
 <br/>
 
-<h3 align="center">Достижения и сертификаты</h3>
+<h3 align="center" style="font-size: 24px;">Достижения и сертификаты</h3>
 
-<table align="center" style="width: 100%; max-width: 800px; font-size: 16px; border-collapse: collapse;">
+<table align="center" style="width: 100%; max-width: 800px; font-size: 18px; border-collapse: collapse;">
   <tr style="background-color: #161b22; color: #c9d1d9;">
-    <th style="padding: 10px; border: 1px solid #30363d;">Курс</th>
-    <th style="padding: 10px; border: 1px solid #30363d;">Организация</th>
-    <th style="padding: 10px; border: 1px solid #30363d;">Дата начала</th>
-    <th style="padding: 10px; border: 1px solid #30363d;">Дата окончания</th>
+    <th style="padding: 15px; border: 1px solid #30363d;">Курс</th>
+    <th style="padding: 15px; border: 1px solid #30363d;">Организация</th>
+    <th style="padding: 15px; border: 1px solid #30363d;">Дата начала</th>
+    <th style="padding: 15px; border: 1px solid #30363d;">Дата окончания</th>
   </tr>
   <tr>
-    <td style="padding: 10px; border: 1px solid #30363d;">Python (базовый/продвинутый)</td>
-    <td style="padding: 10px; border: 1px solid #30363d;">Код будущего</td>
-    <td style="padding: 10px; border: 1px solid #30363d;">23.04.2024</td>
-    <td style="padding: 10px; border: 1px solid #30363d;">01.06.2024</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">Python (базовый/продвинутый)</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">Код будущего</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">23.04.2024</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">01.06.2024</td>
   </tr>
   <tr>
-    <td style="padding: 10px; border: 1px solid #30363d;">The Rust Programming Language</td>
-    <td style="padding: 10px; border: 1px solid #30363d;">Rust Foundation</td>
-    <td style="padding: 10px; border: 1px solid #30363d;">20.06.2024</td>
-    <td style="padding: 10px; border: 1px solid #30363d;">02.09.2024</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">The Rust Programming Language</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">Rust Foundation</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">20.06.2024</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">02.09.2024</td>
   </tr>
   <tr>
-    <td style="padding: 10px; border: 1px solid #30363d;">C++</td>
-    <td style="padding: 10px; border: 1px solid #30363d;">C++ Курс "Разработчик С++"</td>
-    <td style="padding: 10px; border: 1px solid #30363d;">06.03.2024</td>
-    <td style="padding: 10px; border: 1px solid #30363d;">01.06.2024</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">C++</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">C++ Курс "Разработчик С++"</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">06.03.2024</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">01.06.2024</td>
   </tr>
   <tr>
-    <td style="padding: 10px; border: 1px solid #30363d;">ML</td>
-    <td style="padding: 10px; border: 1px solid #30363d;">Онлайн-курс Machine Learning Engineer</td>
-    <td style="padding: 10px; border: 1px solid #30363d;">25.04.2025</td>
-    <td style="padding: 10px; border: 1px solid #30363d;">02.06.2025</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">ML</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">Онлайн-курс Machine Learning Engineer</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">25.04.2025</td>
+    <td style="padding: 15px; border: 1px solid #30363d;">02.06.2025</td>
   </tr>
 </table>
 
 <br/>
 
+<h3 align="center" style="font-size: 24px;">Codewars</h3>
 <p align="center">
   <a href="https://www.codewars.com/users/DiavolIII">
     <img src="https://www.codewars.com/users/DiavolIII/badges/large" />
   </a>
 </p>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FFC000&height=5&width=600" />
+</div>
 
 <br/>
 
@@ -140,7 +155,7 @@
 <br/>
 
 <h4 align="center">
-<pre>
+<pre style="font-size: 16px;">
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
@@ -165,15 +180,21 @@
 
 <br/>
 
-<h3 align="center">Minesweeper</h3>
-<p align="center">Играй прямо в README. Кликни по ссылке, создай Issue без изменений — поле обновится.</p>
+<h3 align="center" style="font-size: 24px;">Minesweeper</h3>
+<p align="center" style="font-size: 18px;">Играй прямо в README. Кликни по ссылке, создай Issue без изменений — поле обновится.</p>
 <p align="center">
   <img src="./minesweeper/board.svg" width="450" alt="Minesweeper Board" />
 </p>
 
 <br/>
 
-<h1 align="center">Связаться со мной</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FFC000&height=5&width=600" />
+</div>
+
+<br/>
+
+<h1 align="center" style="font-size: 28px;">Связаться со мной</h1>
 <p align="center">
   <a href="https://vk.com/xxxdanyacookie" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" height="50" width="50" />
@@ -190,4 +211,8 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC000,50:000000,100:FFC000&height=120&section=footer&text=Спасибо%20за%20визит!&fontSize=20&fontColor=ffffff" />
+</div>
+
+<div align="right">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FFC000&height=5&width=200&section=footer" />
 </div>
