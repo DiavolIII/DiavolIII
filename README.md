@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFC000,100:000000&height=250&section=header&text=DIAVOLIII&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-stack%20%7C%20ML%20%7C%20DevOps&descAlignY=60&descSize=22" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FFC000&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+Full-stack+Developer;%24+cat+specialization.txt;%3E+ML+Engineer;%3E+DevOps+Engineer;%24+./deploy_portfolio.sh;%3E+System+Online..." alt="Typing SVG" />
-</p>
 
 <br/>
 
