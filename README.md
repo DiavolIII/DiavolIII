@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FFC000&height=5&width=200&section=header" />
 </div>
 
+<img align="right" height="250" width="400" alt="Engine GIF" src="./assets/engine.gif"/>
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
   Привет, я Данил (DIAVOLIII)
@@ -10,20 +12,14 @@
 
 <br/>
 
-<p align="center">
-  <img src="./assets/engine.gif" width="600" alt="Engine GIF" />
-</p>
-
-<br/>
-
-<div align="center" style="font-size: 18px; line-height: 1.8;">
+<div align="left" style="font-size: 18px; line-height: 1.8;">
   <p><strong>[-] Цель:</strong> Стать универсальным разработчиком с пониманием low-level и high-level парадигм.</p>
   <p><strong>[+] Изучаю:</strong> Алгоритмы, архитектуру ПО, машинное обучение и системное программирование.</p>
   <p><strong>[>] Работа:</strong> Работаю над личной операционной системой на Android Studio + разработал полный шаблон ОС под Android.</p>
   <p><strong>[#] Колледж:</strong> Студент IT-Колледжа MAXITET.</p>
 </div>
 
-<br/>
+<br clear="both"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFC000,100:000000&height=200&section=header&text=DIAVOLIII&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
@@ -51,34 +47,34 @@
 <h3 align="center" style="font-size: 24px;">Технологии и инструменты</h3>
 
 <p align="center">
-  <table align="center" style="border-collapse: collapse; width: 100%; max-width: 900px; background-color: #0d1117; border: 1px solid #30363d;">
+  <table align="center" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d;">
     <tr>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="70" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="60" /></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" /></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="70" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="60" /></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="70" /></td>
-      <td align="center" style="padding: 20px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="70" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" /></td>
+      <td align="center" style="padding: 15px; border: 1px solid #30363d;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" /></td>
     </tr>
   </table>
 </p>
@@ -188,12 +184,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FFC000&height=5&width=600" />
-</div>
-
-<br/>
-
 <h1 align="center" style="font-size: 28px;">Связаться со мной</h1>
 <p align="center">
   <a href="https://vk.com/xxxdanyacookie" target="_blank">
@@ -202,17 +192,10 @@
   <a href="https://t.me/xxxdanyacookie" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="50" width="50" />
   </a>
-  <a href="https://github.com/DiavolIII" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="50" width="50" />
-  </a>
 </p>
 
 <br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC000,50:000000,100:FFC000&height=120&section=footer&text=Спасибо%20за%20визит!&fontSize=20&fontColor=ffffff" />
-</div>
-
-<div align="right">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:FFC000&height=5&width=200&section=footer" />
 </div>
