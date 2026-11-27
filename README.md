@@ -6,15 +6,15 @@
 
 <img align="right" height="280" width="420" alt="Engine GIF" src="./assets/engine.gif"/>
 
-<div align="left" style="font-size: 20px; line-height: 1.8;">
+<div align="left" style="font-size: 24px; line-height: 1.6;">
   <p><strong>Студент IT-Колледжа MAXITET</strong></p>
-  <p><code style="font-size: 18px;">Разработчик</code> <code style="font-size: 18px;">Full-stack</code> <code style="font-size: 18px;">ML</code> <code style="font-size: 18px;">DevOps</code></p>
+  <p><code style="font-size: 20px;">Разработчик</code> <code style="font-size: 20px;">Full-stack</code> <code style="font-size: 20px;">ML</code> <code style="font-size: 20px;">DevOps</code></p>
   <p>Увлекаюсь программированием и изучаю различные языки для масштабного понимания компьютерных наук.<br/>Мой подход — это глубокое погружение в технологии, эксперименты и постоянное обучение.</p>
 </div>
 
 <br clear="both"/>
 
-<div align="left" style="font-size: 20px; line-height: 1.8;">
+<div align="left" style="font-size: 24px; line-height: 1.6;">
   <p><strong style="color: #FFC000;">></strong> <strong>Цель:</strong> Стать универсальным разработчиком с пониманием low-level и high-level парадигм.</p>
   <p><strong style="color: #FFC000;">></strong> <strong>Изучаю:</strong> Алгоритмы, архитектуру ПО, машинное обучение и системное программирование.</p>
   <p><strong style="color: #FFC000;">></strong> <strong>Работа:</strong> Работаю над личной операционной системой на Android Studio + разработал полный шаблон ОС под Android.</p>
@@ -23,8 +23,8 @@
 <br/>
 
 <div align="center">
-  <h3 style="font-size: 24px;">Достижения и сертификаты</h3>
-  <table style="font-size: 16px; border-collapse: collapse; width: 100%; max-width: 800px;">
+  <h3 style="font-size: 28px;">Достижения и сертификаты</h3>
+  <table style="font-size: 18px; border-collapse: collapse; width: 100%; max-width: 800px;">
     <tr style="background-color: #161b22; color: #c9d1d9;">
       <th style="padding: 12px; border: 1px solid #30363d;">Курс</th>
       <th style="padding: 12px; border: 1px solid #30363d;">Организация</th>
@@ -61,7 +61,7 @@
 <br/>
 
 <div align="center">
-  <h3 style="font-size: 24px;">Codewars</h3>
+  <h3 style="font-size: 28px;">Codewars</h3>
   <a href="https://www.codewars.com/users/DiavolIII">
     <img src="https://www.codewars.com/users/DiavolIII/badges/large" />
   </a>
@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-  <h3 style="font-size: 24px;">Технологии и инструменты</h3>
+  <h3 style="font-size: 28px;">Технологии и инструменты</h3>
 </div>
 
 <p align="center">
@@ -124,7 +124,7 @@
 <br/>
 
 <div align="center">
-  <h3 style="font-size: 24px;">Статистика активности</h3>
+  <h3 style="font-size: 28px;">Статистика активности</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=DiavolIII&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FFC000&icon_color=FFC000&text_color=ffffff&ring_color=FFC000" height="180" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiavolIII&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FFC000&text_color=ffffff" height="180" />
@@ -143,7 +143,7 @@
 <br/>
 
 <div align="center">
-  <h3 style="font-size: 24px;">Связь со мной</h3>
+  <h3 style="font-size: 28px;">Связь со мной</h3>
   <a href="https://vk.com/xxxdanyacookie"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
   <a href="https://t.me/xxxdanyacookie"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
