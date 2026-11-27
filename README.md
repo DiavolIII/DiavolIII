@@ -138,15 +138,6 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="850" alt="3D contribution calendar" />
 </p>
 
-<br/>
-
-<h3 align="center" style="font-size: 24px;">Змейка</h3>
-<p align="center" style="font-size: 18px;">Каждый коммит — это еда для змейки.</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DiavolIII/DiavolIII/output/snake.svg" alt="Snake animation" />
-</p>
-
-<br/>
 
 <div align="center">
   <h3 style="font-size: 24px;">Связь со мной</h3>
