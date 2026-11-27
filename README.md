@@ -4,18 +4,20 @@
 
 <br/>
 
-<div align="center" style="font-size: 20px; line-height: 1.8;">
+<img align="right" height="280" width="420" alt="Engine GIF" src="./assets/engine.gif"/>
+
+<div align="left" style="font-size: 20px; line-height: 1.8;">
   <p><strong>Студент IT-Колледжа MAXITET</strong></p>
   <p><code style="font-size: 18px;">Разработчик</code> <code style="font-size: 18px;">Full-stack</code> <code style="font-size: 18px;">ML</code> <code style="font-size: 18px;">DevOps</code></p>
   <p>Увлекаюсь программированием и изучаю различные языки для масштабного понимания компьютерных наук.<br/>Мой подход — это глубокое погружение в технологии, эксперименты и постоянное обучение.</p>
 </div>
 
-<br/>
+<br clear="both"/>
 
-<div align="center" style="font-size: 20px; line-height: 1.8;">
-  <p><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="20" height="20" align="middle"/> <strong>Цель:</strong> Стать универсальным разработчиком с пониманием low-level и high-level парадигм.</p>
-  <p><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="20" height="20" align="middle"/> <strong>Изучаю:</strong> Алгоритмы, архитектуру ПО, машинное обучение и системное программирование.</p>
-  <p><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="20" height="20" align="middle"/> <strong>Работа:</strong> Работаю над личной операционной системой на Android Studio + разработал полный шаблон ОС под Android.</p>
+<div align="left" style="font-size: 20px; line-height: 1.8;">
+  <p><strong style="color: #FFC000;">></strong> <strong>Цель:</strong> Стать универсальным разработчиком с пониманием low-level и high-level парадигм.</p>
+  <p><strong style="color: #FFC000;">></strong> <strong>Изучаю:</strong> Алгоритмы, архитектуру ПО, машинное обучение и системное программирование.</p>
+  <p><strong style="color: #FFC000;">></strong> <strong>Работа:</strong> Работаю над личной операционной системой на Android Studio + разработал полный шаблон ОС под Android.</p>
 </div>
 
 <br/>
@@ -138,6 +140,7 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="850" alt="3D contribution calendar" />
 </p>
 
+<br/>
 
 <div align="center">
   <h3 style="font-size: 24px;">Связь со мной</h3>
