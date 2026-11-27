@@ -4,18 +4,18 @@
 
 <br/>
 
-<div align="center" style="font-size: 18px; line-height: 1.8;">
-  <p><strong>Студент IT-Колледжа <img src="https://static.tildacdn.com/tild3835-3638-4035-b135-316236636165/Fat_logo.svg" width="20"> MAXITET</strong></p>
-  <p><code>Разработчик</code> <code>Full-stack</code> <code>ML</code> <code>DevOps</code></p>
+<div align="center" style="font-size: 20px; line-height: 1.8;">
+  <p><strong>Студент IT-Колледжа MAXITET</strong></p>
+  <p><code style="font-size: 18px;">Разработчик</code> <code style="font-size: 18px;">Full-stack</code> <code style="font-size: 18px;">ML</code> <code style="font-size: 18px;">DevOps</code></p>
   <p>Увлекаюсь программированием и изучаю различные языки для масштабного понимания компьютерных наук.<br/>Мой подход — это глубокое погружение в технологии, эксперименты и постоянное обучение.</p>
 </div>
 
 <br/>
 
-<div align="center" style="font-size: 18px; line-height: 1.8;">
-  <p>[-] <strong>Цель:</strong> Стать универсальным разработчиком с пониманием low-level и high-level парадигм.</p>
-  <p>[+] <strong>Изучаю:</strong> Алгоритмы, архитектуру ПО, машинное обучение и системное программирование.</p>
-  <p>[>] <strong>Работа:</strong> Работаю над личной операционной системой на Android Studio + разработал полный шаблон ОС под Android.</p>
+<div align="center" style="font-size: 20px; line-height: 1.8;">
+  <p><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="20" height="20" align="middle"/> <strong>Цель:</strong> Стать универсальным разработчиком с пониманием low-level и high-level парадигм.</p>
+  <p><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="20" height="20" align="middle"/> <strong>Изучаю:</strong> Алгоритмы, архитектуру ПО, машинное обучение и системное программирование.</p>
+  <p><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="20" height="20" align="middle"/> <strong>Работа:</strong> Работаю над личной операционной системой на Android Studio + разработал полный шаблон ОС под Android.</p>
 </div>
 
 <br/>
@@ -140,11 +140,11 @@
 
 <br/>
 
-<div align="center">
-  <h3 style="font-size: 24px;">Minesweeper</h3>
-  <p style="font-size: 16px;">Играй прямо в README. Кликни по ссылке, создай Issue без изменений — поле обновится.</p>
-  <img src="./minesweeper/board.svg" width="450" alt="Minesweeper Board" />
-</div>
+<h3 align="center" style="font-size: 24px;">Змейка</h3>
+<p align="center" style="font-size: 18px;">Каждый коммит — это еда для змейки.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DiavolIII/DiavolIII/output/snake.svg" alt="Snake animation" />
+</p>
 
 <br/>
 
