@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Minesweeper Action
-        uses: evaristocuesta/minesweeper@main
+        uses: alexander-schranz/github-action-minesweeper@main
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit & Push
